@@ -17,7 +17,7 @@ Folder hmm/ contains source code for inference on HMMs. Implementation follows f
 
 
 ### References
-[1] Csiszár, I., & Talata, Z. (2006). Context tree estimation for not necessarily finite memory processes, via BIC and MDL. IEEE Transactions on Information theory, 52(3), 1007-1016.
-[2] Kontoyiannis, I., Mertzanis, L., Panotopoulou, A., Papageorgiou, I., & Skoularidou, M. (2022). Bayesian context trees: Modelling and exact inference for discrete time series. Journal of the Royal Statistical Society Series B: Statistical Methodology, 84(4), 1287-1323.
-[3] Rissanen, J. (1983). A universal data compression system. IEEE Transactions on information theory, 29(5), 656-664.
+[1] Csiszár, I., & Talata, Z. (2006). Context tree estimation for not necessarily finite memory processes, via BIC and MDL. IEEE Transactions on Information theory, 52(3), 1007-1016.\\
+[2] Kontoyiannis, I., Mertzanis, L., Panotopoulou, A., Papageorgiou, I., & Skoularidou, M. (2022). Bayesian context trees: Modelling and exact inference for discrete time series. Journal of the Royal Statistical Society Series B: Statistical Methodology, 84(4), 1287-1323.\\
+[3] Rissanen, J. (1983). A universal data compression system. IEEE Transactions on information theory, 29(5), 656-664.\\
 [4] Rabiner, L. R. (1989). A tutorial on hidden Markov models and selected applications in speech recognition. Proceedings of the IEEE, 77(2), 257-286.
